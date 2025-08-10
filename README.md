@@ -10,11 +10,11 @@
 
 ### File Management:
 
-  • Browse, view and edit files on remote server
+1. Browse, view and edit files on remote server
 
-  • Easily download and delete files
+2. Easily download and delete files
 
-  • Efficiently upload new files
+3. Efficiently upload new files
 
 ### Execution of system commands:
 
