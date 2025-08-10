@@ -18,23 +18,23 @@
 
 ### Execution of system commands:
 
-  • Execute arbitrary system commands remotely
+1. Execute arbitrary system commands remotely
   
-  • Receive real-time output for monitoring and control
+2. Receive real-time output for monitoring and control
   
 ### Ransomware Module:
 
-  • Encrypt files on the server using AES-256-CBC encryption
+1. Encrypt files on the server using AES-256-CBC encryption
 
-  • Effectively lock files by ransomware
+2. Effectively lock files by ransomware
 
-  • Provide decryption capability upon receipt of the correct key
+3. Provide decryption capability upon receipt of the correct key
 
 ### System and User Information:
 
-  • Display hardware details such as CPU, memory and disk usage
+4. Display hardware details such as CPU, memory and disk usage
 
-  • Display server user information for status awareness
+5. Display server user information for status awareness
 
 ## Security Notice:
 
