@@ -4,8 +4,7 @@
 ### Powerful Remote Administration and Ransomware Countermeasures Tool
 
 ## Project Overview:
-``` This PHP-based shell is designed for advanced remote administration with built-in ransomware capabilities. The shell allows authorized users to control system files, execute system commands, and execute ransomware on target files - all from a secure and user-friendly web interface.
-```
+    This PHP-based shell is designed for advanced remote administration with built-in ransomware capabilities. The shell allows authorized users to control system files, execute system commands, and execute ransomware on target files - all from a secure and user-friendly web interface.
 
 ## Key Features:
 
@@ -38,7 +37,7 @@
   • Display server user information for status awareness
 
 ## Security Notice:
-```
-This tool is intended for ethical use by authorized personnel only. Unauthorized deployment or misuse for malicious purposes is illegal and punishable. Always obtain explicit permission before using this tool.
-```
+
+    This tool is intended for ethical use by authorized personnel only. Unauthorized deployment or misuse for malicious purposes is illegal and punishable. Always obtain explicit permission before using this tool.
+
 Developer: E | L F
